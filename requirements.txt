@@ -8,3 +8,4 @@ catboost
 xgboost
 seaborn
 imblearn
+-U --pre pycaret
